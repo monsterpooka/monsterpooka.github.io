@@ -25,18 +25,18 @@ h1 small {
   background-image: url("../images/background/1st-page-new.jpg");
   color: rgba(255, 255, 255, 0.8); }
   #first-page h1 {
-    font-family: "Righteous", cursive;
+    font-family: "Cookie", cursive;
     font-size: 140px;
     line-height: 140px;
     letter-spacing: 26px;
     text-shadow: 2px -2px 3px rgba(0, 0, 0, 0.6);
     padding-bottom: 10px; }
   #first-page h3 {
-    font-family: "Comfortaa", cursive;
+    font-family: "Tangerine", serif;
     border-top: medium double #fff;
     border-bottom: medium double #fff;
     text-shadow: 2px -2px 3px rgba(0, 0, 0, 0.6);
-    font-size: 60px;
+    font-size: 40px;
     position: relative;
     margin: auto;
     padding: 20px 0px;
@@ -64,7 +64,7 @@ h1 small {
     margin-left: -10px;
     text-shadow: 1px -1px 2px rgba(0, 0, 0, 0.2); }
   #first-page h4 {
-    font-family: "Bevan", cursive;
+    font-family: "Tangerine", serif;
     color: #fff;
     font-size: 32px;
     padding: 20px 0px; }
@@ -189,10 +189,10 @@ h1 small {
     margin-top: 20px; }
   #third-page .info h3.address {
     font-family: "Poiret One", cursive;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 52px;
     position: absolute;
-    bottom: 90px;
+    bottom: 400px;
     right: 0px;
     width: 400px; }
   #third-page .info .footer {
