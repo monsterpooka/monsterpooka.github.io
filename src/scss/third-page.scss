@@ -74,7 +74,7 @@ $footer-padding: 20px;
         }
     }
     
-    .info.quangninh {
+    .info.hanoi {
         right: 50%;
         box-shadow: -2px 0px 20px rgba(0,0,0,0.7);
         @include translateY(400px);
@@ -85,7 +85,7 @@ $footer-padding: 20px;
         }        
     }
     
-    .info.hanoi {
+    .info.quangninh {
         left: 50%;
         box-shadow: 2px 0px 20px rgba(0,0,0,0.7);
         @include translateY(-400px);
@@ -115,7 +115,7 @@ $footer-padding: 20px;
 }
 
 #third-page.active {
-    .info.quangninh,.info.hanoi {
+    .info.hanoi,.info.quangninh {
         transform: none;
     }
 }

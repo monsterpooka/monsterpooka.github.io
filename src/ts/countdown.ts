@@ -8,7 +8,7 @@ module Countdown {
 		private $hour = $('#fifth-page .hour');
 		private $minute = $('#fifth-page .minute');
 		private $second = $('#fifth-page .second');
-		private deadline: number = 1558864800000;
+		private deadline: number = 1559469600000;
 
 		init() {
 			setInterval(() => {

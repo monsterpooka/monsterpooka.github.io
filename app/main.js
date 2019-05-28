@@ -299,7 +299,7 @@ var Countdown;
             this.$hour = $('#fifth-page .hour');
             this.$minute = $('#fifth-page .minute');
             this.$second = $('#fifth-page .second');
-            this.deadline = 1558864800000;
+            this.deadline = 1559469600000;
         }
         App.prototype.init = function () {
             var _this = this;
